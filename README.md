@@ -10,3 +10,19 @@ This course crams months of computer science and interview prep material into 20
 
 I start by teaching you how to analyze your code’s time and space complexity using Big O notation.  We cover the ins and outs of Recursion.  We learn a 5-step approach to solving any difficult coding problem. We cover common programming patterns. We implement popular searching algorithms. We write 6 different sorting algorithms: Bubble, Selection, Insertion, Quick, Merge, and Radix Sort.   Then, we switch gears and implement our own data structures from scratch, including linked lists, trees, heaps, hash tables, and graphs.  We learn to traverse trees and graphs, and cover Dijkstra's Shortest Path Algorithm.  The course also includes an entire section devoted to Dynamic Programming.
 
+### Here's why this course is worth your time:
+
+It's interactive -  I give you a chance to try every problem before I show you my solution.
+
+Every single problem has a complete solution walkthrough video as well as accompanying solution file.
+
+I cover helpful "tips and tricks" to solve common problems, but we also focus on building an approach to ANY problem.
+
+It's full of animations and beautiful diagrams!
+
+Are you looking to level-up your developer skills? Sign up today!
+
+### Who this course is for:
+Anyone preparing for programming interviews
+Anyone interested in improving their problem solving skills
+Anyone looking to become a better developer!
