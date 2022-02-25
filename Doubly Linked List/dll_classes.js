@@ -104,7 +104,7 @@ class DoublyLinkedList{
         } else {
             count = this.length - 1;
             current = this.tail;
-            
+
             while(count !== index){
                 current = current.prev;
                 count--;
@@ -112,6 +112,19 @@ class DoublyLinkedList{
         }
 
         return current;
+    }
+
+    // Set
+    set(index, val) {
+        var foundNode = this.get(index);
+
+        if(foundNode != null) {
+            foundNode.val = val;
+            
+            return true;
+        }
+
+        return false;
     }
 }
 
